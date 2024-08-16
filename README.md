@@ -1,4 +1,3 @@
-Certainly! Here's the GitHub README for Open Mart in markdown format:
 
 ---
 
