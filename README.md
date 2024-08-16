@@ -46,7 +46,11 @@ Our goal is to make virtual shopping as engaging and interactive as shopping in 
    ```
    npm run dev
    ```
+Open Mart Main Interface
+![Screenshot 2024-08-17 010039](https://github.com/user-attachments/assets/982a15e9-ebad-4e88-a04c-96d618bd6d27)
 
+Open Mart Shopping Experience
+![Screenshot 2024-08-17 010250](https://github.com/user-attachments/assets/ba82a9d2-6a5e-4b49-9fa4-0c96fece4d25)
 ## Contributing
 
 We welcome contributions to Open Mart! Feel free to submit a pull request or open an issue to discuss your ideas.
