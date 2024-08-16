@@ -1,0 +1,27 @@
+.cart-page {
+  padding: 20px;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.cart-item img {
+  width: 50px;
+}
+
+.cart-total {
+  margin-top: 20px;
+}
+
+.quantity-buttons {
+  display: flex;
+  align-items: center;
+}
+
+.quantity-buttons button {
+  margin: 0 5px;
+}
