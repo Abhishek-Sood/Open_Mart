@@ -32,7 +32,7 @@ Our goal is to make virtual shopping as engaging and interactive as shopping in 
 
 ## Getting Started
 
-1. **Clone the repository**: Use the following command to clone the Open Mart repository (link unavailable):
+1. **Clone the repository**: Use the following command to clone the Open Mart repository :
    ```
    git clone https://github.com/Ashishbachan14/Open_Mart.git
    ```
