@@ -60,4 +60,4 @@ We welcome contributions to Open Mart! Feel free to submit a pull request or ope
 
 ---
 
-Feel free to customize this README further based on your project specifics. Good luck with Open Mart, and I hope it becomes a successful and engaging platform! 😊🛒🌟
+I hope Open Mart becomes a successful and engaging platform! 😊🛒🌟
